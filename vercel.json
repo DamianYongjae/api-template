@@ -1,0 +1,4 @@
+{
+  "regions": ["iad1"],
+  "rewrites": [{ "source": "/graphql", "destination": "/api/graphql" }]
+}
